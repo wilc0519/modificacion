@@ -4,7 +4,7 @@
   "description": "ioet",
   "main": "index.js",
   "scripts": {
-    "start": "babel-node --extensions \".ts\" ./solution/solucion.ts",
+    "start": "babel-node --extensions \".ts\" ./solution/solution.ts",
     "test": "jest --detectOpenHandles"
   },
   "keywords": [
